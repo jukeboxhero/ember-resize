@@ -1,6 +1,6 @@
 {
   "name": "ember-resize",
-  "version": "0.0.0-development",
+  "version": "0.3.14",
   "description": "Idiomatically handle window and view resizes in Ember.js",
   "scripts": {
     "build": "ember build",
